@@ -71,15 +71,15 @@ I am a full-stack engineer passionate about creating innovative and user-friendl
 ## Contact Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jhusseth-sanchez)
-[<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/jhusseth1)
+[<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/jhusseth)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jhussethsanchez1@gmail.com)
 
 
 ## Stats
 
-![Jhusseth S. GitHub stats](https://github-readme-stats.vercel.app/api?username=jhusseth1&show_icons=true&theme=radical)
+![Jhusseth S. GitHub stats](https://github-readme-stats.vercel.app/api?username=jhusseth&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhusseth1&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhusseth&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhusseth1&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhusseth&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
